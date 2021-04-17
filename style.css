@@ -1,0 +1,58 @@
+#div1
+{
+    width:10px;
+    height:5px;
+    background-color:black;
+}
+#fontsub
+{
+    font-family:'Redressed', cursive;
+}
+#nefontsub
+{
+       font-family:  'Redressed', cursive;
+}
+#tblimg
+{
+    width: 200px;
+    border-radius:70%;
+    margin-top: 50px
+}
+#impro1
+{
+    background: linear-gradient(#00fbff 0%, #00ffbf 100%);
+    height: 500
+        
+}
+#theone
+{
+    font-family:'Redressed', cursive; 
+}
+#menu1
+{
+ list-style: none;
+position:absolute;
+ top:0;  
+right:0;
+    cursor:pointer;
+    position:fixed;
+}
+.limen
+{
+  display:inline;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family:'Redressed', cursive;
+        
+}
+.limen:hover
+{
+    background-color:aqua ;
+        font-style: italic;
+}
+body
+{
+    
+      font-family:'Redressed', cursive;
+    text-align:center;
+}
